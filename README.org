@@ -1,0 +1,7 @@
+#+TITLE: Logseq-journal-swap-transclude 
+#+SUBTITLE:
+* journal-swap-transclude
+Logseq plugin to take a journal entry, move it to a page, and transclude (embed) the reference back to its original location in the journal.
+
+** Why?
+So that pages contain the actual content, rather than block references, allowing grep and other simple CLI tools without needing to tie up all those UUID block refs.
